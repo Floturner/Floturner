@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Florent TABOUKOUNA<br>👀 I’m interested in software development, Cloud, DevOps and IT automation<br>🌱 I’m currently learning Google Cloup Platform<br>💞️ I’m looking to collaborate on software development and Cloud projects
+👋 Hi, I’m Florent TABOUKOUNA<br>👀 I’m interested in software development, Cloud, DevOps and IT automation<br>🌱 I’m currently learning Google Cloud Platform<br>💞️ I’m looking to collaborate on software development and Cloud projects
 
 
 ## 🌐 Socials:
